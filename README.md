@@ -3,7 +3,8 @@
 
 
 
-```bash <(curl -s https://raw.githubusercontent.com/Skysurver007/repositoi-ubuntu/main/repository.sh)
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Skysurver007/repositoi-ubuntu/main/repository.sh)
 ```
 
 
